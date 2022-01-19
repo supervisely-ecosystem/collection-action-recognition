@@ -64,7 +64,7 @@ This collection allows you to label, review and process data in Action Recogniti
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-labeling" src="https://imgur.com/q49qwvF.png" width="350px"/>
 
 - [Action Recognition Stats Tool](https://ecosystem.supervise.ly/apps/action-recognition-stats) — use this Application to analyze labeled project  
-  <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-stats" src="https://imgur.com/Y7mrGBL.png" width="350px" style='padding-bottom: 20px'/>
+  <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-stats" src="https://imgur.com/TZpzszz.png" width="350px" style='padding-bottom: 20px'/>
     
 ## Demo Data
  
