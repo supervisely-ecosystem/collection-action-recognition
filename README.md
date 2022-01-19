@@ -42,7 +42,7 @@ This collection allows you to label, review and process data in Action Recogniti
     <tr>
         <td>
           <img src="https://imgur.com/1JPMeTf.png" style=""/>
-            <h4 align="center" style="font-family:'Lucida Console', monospace; padding-top: 3px">review labeled videos and correct mistakes in data</h4> 
+            <h4 align="center" style="font-family:'Lucida Console', monospace; padding-top: 3px">review labeled videos</h4> 
         </td>
         <td>
           <img src="https://imgur.com/MKp69jg.png" style=""/>
