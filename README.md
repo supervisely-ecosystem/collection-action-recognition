@@ -75,7 +75,7 @@ This collection allows you to label, review and process data in Action Recogniti
 
 # For Developers
 
-You can use sources from from any application to create your own.
+You can use sources from any application to create your own.
 
 You can also refer to our documentation:
 
