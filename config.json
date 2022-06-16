@@ -2,7 +2,8 @@
   "name": "Action Recognition",
   "type": "collection",
   "categories": [
-    "retail"
+    "videos",
+    "labeling"
   ],
   "description": "Label and Review videos for Action Recognition task",
   "icon": "https://imgur.com/kMbFKxN.png",
