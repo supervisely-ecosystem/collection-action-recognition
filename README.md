@@ -30,21 +30,21 @@ This collection allows you to label, review and process data in Action Recogniti
 <table>
     <tr style="width: 100%">
         <td >
-          <img src="https://imgur.com/CBAvlra.png" style=""/>
+          <img src="media/overview1.png" style=""/>
             <h4 align="center" style="font-family:'Lucida Console', monospace; padding-top: 3px; padding-bottom: 0">control labeling process</h4>
         </td>
         <td>
-          <img src="https://imgur.com/tWwE977.png" style=""/>
+          <img src="media/overview2.png" style=""/>
             <h4 align="center" style="font-family:'Lucida Console', monospace; padding-top: 3px; padding-bottom: 0">label videos using simple and powerfull software</h4> 
         </td>
     </tr>
     <tr>
         <td>
-          <img src="https://imgur.com/1JPMeTf.png" style=""/>
+          <img src="media/overview3.png" style=""/>
             <h4 align="center" style="font-family:'Lucida Console', monospace; padding-top: 3px">review labeled videos</h4> 
         </td>
         <td>
-          <img src="https://imgur.com/MKp69jg.png" style=""/>
+          <img src="media/overview4.png" style=""/>
             <h4 align="center" style="font-family:'Lucida Console', monospace; padding-top: 3px">comfortably analyze stats on labeled project</h4> 
         </td>
     </tr>
@@ -56,20 +56,20 @@ This collection allows you to label, review and process data in Action Recogniti
 
 
 - [Classic Labeling Queues](https://ecosystem.supervise.ly/apps/labeling-queues) — use this Application to initialize Annotation Process   
-  <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/labeling-queues" src="https://imgur.com/Fq8uLnl.png" width="350px" style='padding-bottom: 20px'/>
+  <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/labeling-queues" src="media/classicq.png" width="350px" style='padding-bottom: 20px'/>
   
 - [Action Recognition Labeling](https://ecosystem.supervise.ly/apps/action-recognition-labeling) — use this Application to label and review data  
 
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-labeling" src="https://imgur.com/q49qwvF.png" width="350px"/>
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-labeling" src="media/arlt.png" width="350px"/>
 
 - [Action Recognition Stats Tool](https://ecosystem.supervise.ly/apps/action-recognition-stats) — use this Application to analyze labeled project  
-  <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-stats" src="https://imgur.com/TZpzszz.png" width="350px" style='padding-bottom: 20px'/>
+  <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/action-recognition-stats" src="media/arst.png" width="350px" style='padding-bottom: 20px'/>
     
 ## Demo Data
  
 - [Videos example](https://ecosystem.supervise.ly/projects/videos-example) — videos for test
 
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/videos-example" src="https://imgur.com/gFmUIh0.png" width="350px"/>
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/videos-example" src="media/vex.png" width="350px"/>
 
 
 # For Developers
