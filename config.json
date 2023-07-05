@@ -6,8 +6,8 @@
     "labeling"
   ],
   "description": "Label and Review videos for Action Recognition task",
-  "icon": "https://imgur.com/kMbFKxN.png",
+  "icon": "media/icon.png",
   "icon_background": "#FFFFFF",
   "icon_cover": false,
-  "poster": "https://imgur.com/CBAvlra.png"
+  "poster": "media/poster.png"
 }
